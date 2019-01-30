@@ -343,9 +343,9 @@ include("email.php");
 						</div>
 						<div class="col-lg-4">
 							<div class="card card-block" style="width: 100%; height: 90%; margin-top: 8%">
-								<a href="https://damiancwykiel.github.io/ReactGame/" target="_blank"><img class="card-img-top" src="img/ReactionGame.png" alt="ReactionGame.png"></a>
+								<a href="https://damiancwykiel.github.io/RunningShapes/" target="_blank"><img class="card-img-top" src="img/RunningShapes.png" alt="RunningShapes.png"></a>
 								<div class="card-body">
-									<article class="card-title" tabindex="0" data-toggle="tooltip" data-placement="bottom" title="This game called 'ReactGame' tests your reaction on displaying geometrical figures. A player has to click on objects and JS measures the time between show up an object and a player's clik on the figure field. Objects except for various shapes also change their colours thanks to use Math.random method.">Reaction Game<sup>i</sup>
+									<article class="card-title" tabindex="0" data-toggle="tooltip" data-placement="bottom" title="The project-game tests your reaction on displaying geometrical figures. A player has to click on objects and JS measures the time between show up an object and a player's clik on the figure field. Objects except for various shapes also change their colours thanks to use Math.random method.">Running_Shapes<sup>i</sup>
 									</article>
 									<p class="card-text">Technology used:
 										<br><b>
@@ -354,8 +354,8 @@ include("email.php");
 										<img src="img/Projecticons/js.png" alt="js.png">
 										</b>
 									</p>
-									<a href="https://damiancwykiel.github.io/ReactGame/" target="_blank"><img src="img/Projecticons/web.png" alt="web.png"></a>
-									<a href="https://github.com/DamianCwykiel/ReactGame" target="_blank"><img src="img/Projecticons/code1.png" alt="code1.png"></a>
+									<a href="https://damiancwykiel.github.io/RunningShapes/" target="_blank"><img src="img/Projecticons/web.png" alt="web.png"></a>
+									<a href="https://github.com/DamianCwykiel/RunningShapes" target="_blank"><img src="img/Projecticons/code1.png" alt="code1.png"></a>
 							   </div>
 							</div>
 						</div>
@@ -475,7 +475,7 @@ include("email.php");
 							<div class="card card-block" style="width: 100%; height: 100%; margin-top: 8%">
 								<a href="https://github.com/DamianCwykiel/ShoppingApp" target="_blank"><img class="card-img-top" src="img/shoppingapp.png" alt="shoppingapp.png"></a>
 								<div class="card-body">
-									<article class="card-title" tabindex="0" data-toggle="tooltip" data-placement="bottom" title="This project is a nice way to replace your traditional shopping list on digital one and keep it in a save place having an access to it in evey place you like. An extra option is to shuffle between typed items randomly selecting one of them. The project was built in JS library - React. ">ShoppingApp<sup>i</sup>
+									<article class="card-title" tabindex="0" data-toggle="tooltip" data-placement="bottom" title="This project is a nice way to replace your traditional shopping list on digital one and keep it in a save place having an access to it in evey place you like. An extra option is to shuffle between typed items randomly selecting one of them. The project was built in JS library - React.">ShoppingApp<sup>i</sup>
 									</article>
 									<p class="card-text">Technology used:
 									<br/><b>
@@ -493,7 +493,10 @@ include("email.php");
 							<div class="card card-block" style="width: 100%; height: 100%; margin-top: 8%">
 								<a href="https://react-application-2-payments.herokuapp.com/" target="_blank"><img class="card-img-top" src="img/mpka.png" alt="mpka.png"></a>
 								<div class="card-body">
-									<article class="card-title" tabindex="0" data-toggle="tooltip" data-placement="bottom" title="the app currently is under construction">MonthlyPaymentsKeeperApp<sup>i</sup>
+									<article class="card-title" tabindex="0" data-toggle="tooltip" data-placement="bottom" title="This 		project uses including: React, Redux, .SCSS, Firebase, Webpack and was been tested in Jest.
+									The app styled as a home budget-app allows to add, change or remove created expenses. 
+									The database was placed in the google Firebase and an access to it is via fast google login.
+									In the app an amount in total you can see above of item list in the header.">MonthlyPaymentsKeeperApp<sup>i</sup>
 									</article>
 									<p class="card-text">Technology used:
 									<br/><b>
