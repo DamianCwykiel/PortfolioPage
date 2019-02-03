@@ -1,7 +1,7 @@
 <?php
 include("email.php");
 ?>
-    <!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 	<head>
         <meta charset="utf-8">
@@ -172,8 +172,7 @@ include("email.php");
 					<figure>
 						<img src="img/picture-1.jpg" class="float-left"> 
 					</figure>
-<!--MainArticle-->
-					<article>
+<!--MainArticle-->	<article>
 						Hello, my name is Damian Cwykiel and I am a progresive WebDeveloper.</br>I like to work with the accuracy and good quality taking care of each even a small-time detail.</br>
 						These days I am looking for a job as a junior web programmer which will enable me to get new skills and build up already learned. I would like to work with people who really love what they do.</br>I am still going to develop myself in what I do and gather new abilities in programming.</br>
 						Except all above I am really keen on archeological excavations and travelling. I am also a big fun of different cultures and meeting new people.</br>If you like my application, give me a call.
